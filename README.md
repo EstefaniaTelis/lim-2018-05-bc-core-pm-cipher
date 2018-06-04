@@ -1,5 +1,8 @@
 # Cipher.me
 
+
+![Pantalla](https://github.com/EstefaniaTelis/lim-2018-05-bc-core-pm-cipher/blob/gh-pages/pantalla-readme-cipher-me.png)
+
 ## Definición del producto
 
 Cipher.me es una app web diseñada usando HTML, CSS y vanilaJS 
@@ -20,4 +23,6 @@ El diseño está basado usando las últimas tendencias en diseño de interfaces, Mat
 basada en un color turquesa que brinda frescura y actualidad al look&feel.
 
 Se puede acceder a la aplicación a través del enlace: <https://estefaniatelis.github.io/lim-2018-05-bc-core-pm-cipher/src/>
+
+
 
