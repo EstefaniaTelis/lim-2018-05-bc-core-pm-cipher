@@ -167,11 +167,15 @@ a:link {
     .grid {
       grid-template-columns: repeat(3, 1fr)r;
       grid-template-areas:
-        "hd      hd      hd"
-        "header2    header2    header2"
-        "main    second    thi"
-        "fy       fv        fv"
-        "ft      ft      ft";
+      "hd"
+      "header2"
+      "main"
+      "second"
+      "thi"
+      "fy"
+      "fv"
+      "ft"
+      ;
     }
     aside {
       display: none;
