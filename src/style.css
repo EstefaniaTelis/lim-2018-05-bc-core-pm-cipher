@@ -54,7 +54,9 @@ p {
   text-align: left;
   padding:10px;
   }
-
+.logo {
+    margin-left: 35px;
+}
 a:link {
   color: #B2DFDB;
   font-weight : bold;
